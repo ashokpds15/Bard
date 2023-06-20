@@ -40,7 +40,7 @@ class _WebViewExampleState extends State<WebViewExample> {
       child: Stack(
         children: [
           InAppWebView(
-            initialUrlRequest: URLRequest(url: Uri.parse('https://bard.google.com')),
+            initialUrlRequest: URLRequest(url: Uri.parse('https://https://tms47.nepsetms.com.np/login')),
             initialOptions: InAppWebViewGroupOptions(
               android: AndroidInAppWebViewOptions(
                 supportMultipleWindows: false,
